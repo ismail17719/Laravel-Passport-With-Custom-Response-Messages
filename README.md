@@ -9,7 +9,7 @@ Password: a
 **_All the commands down below should be run in project's root directory_**
 1. Clone the repository by running the following command
 ```sh
-git clone https://github.com/ismail17719/Rhanra.git
+git clone https://github.com/ismail17719/Laravel-Passport-With-Custom-Response-Messages.git
 ```
 2. Open the terminal and go to the project root directory
 3. Run the composer command to install all dependencies
