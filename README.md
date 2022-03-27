@@ -3,6 +3,7 @@ This sample project is meant to help beginners struggling with setting up Oauth2
 The test login credentials for the applications are:
 
 Username: a@a.com
+
 Password: a
 ### Steps to install and run
 **_All the commands down below should be run in project's root directory_**
