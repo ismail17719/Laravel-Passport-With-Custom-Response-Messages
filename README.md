@@ -1,6 +1,7 @@
 # Laravel Custom Response Messages
 This sample project is meant to help beginners struggling with setting up Oauth2 server in laravel. It's using Laravel's official Oauth2 Passport package for this purpose. Another reason why this project is important is the customization of messages from passport and laravel in order to have a standard format for all the reponses sent back to the client.
 The test login credentials for the applications are:
+
 Username: a@a.com
 Password: a
 ### Steps to install and run
